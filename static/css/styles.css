@@ -1,0 +1,33 @@
+* {
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	}
+/*START STYLING*/
+body {
+    background: #E6E6E6;
+}
+/*NAV AND HEADER*/
+.nav-wrapper {
+    background: transparent;
+}
+.nav-wrapper a {
+    color: white;
+}
+.nav-wrapper a:hover {
+    background-color: black;
+}
+div.header {
+    height: 100vh;
+    background-repeat: no-repeat;
+    background: url('/img/header_img.jpg');
+    background-size: cover;
+}
+/*END*/
+/*ABOUT OR HOW WE HELP*/
+.about {
+    height: 50vh;
+    text-align: center;
+}
+/*END*/
